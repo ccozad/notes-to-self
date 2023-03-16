@@ -4,5 +4,8 @@ This repo captures notes on various topics. It's on the public internet but it w
 * Cloud
   * Azure
     * [Azure Cheat Sheet](azure-cheat-sheet.md)
+* Machines
+  * Lasers
+    * [Laser Cutting Variables](laser-cutting-variables.md)
 
 
