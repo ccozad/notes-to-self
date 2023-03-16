@@ -31,6 +31,8 @@ This repo captures notes on various topics. It's on the public internet but it w
 * Machines
   * Lasers
     * [Laser Cutting Variables](laser-cutting-variables.md) Like flying a helicopter
+* Security
+*   * [OWASP Top 10](https://owasp.org/www-project-top-ten/) 
 * Technical Books
   * [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN/)
   * [Pragmatic Thinking and Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/)
