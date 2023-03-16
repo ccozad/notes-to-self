@@ -15,6 +15,12 @@ This repo captures notes on various topics. It's on the public internet but it w
   * Refactoring
     * [Code Smells](https://refactoring.guru/refactoring/smells) You might need to refactor when these smells happen
     * [Refactoring Techniques](https://refactoring.guru/refactoring/techniques) Change what you have in place
+* Business
+    * Management
+      * [Feedback Sandwich](https://www.betterup.com/blog/feedback-sandwich) Praise, correct, praise
+      * [Leadership Styles](https://www.indeed.com/career-advice/career-development/leadership-styles-and-theories) Different styles for different situations
+      * [Smart Goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) Specific, Measurable, Relevant, Attainable, Time bound 
+      * [Stop, Start Continue](https://www.scienceofpeople.com/start-stop-continue/) Quickly and simply gather feedback from a group  
 * Cloud
   * Azure
     * [Azure Cheat Sheet](azure-cheat-sheet.md)
@@ -39,7 +45,12 @@ This repo captures notes on various topics. It's on the public internet but it w
 * Security
   * [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
   * [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) 
-  * [OWASP Top 10](https://owasp.org/www-project-top-ten/) 
+  * [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+* Self Improvement Books
+  * Find Your Why
+  * How to Win Friends and Influence People
+  * Seven Habits of Highly Effective People
+  * The Second Mountain  
 * Technical Books
   * [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN/)
   * [Pragmatic Thinking and Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/)
