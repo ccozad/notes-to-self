@@ -3,7 +3,8 @@ This repo captures notes on various topics. It's on the public internet but it w
 
 * Architecture
   * Diagrams
-    * [ER Diagrams](https://www.lucidchart.com/pages/er-diagrams) 
+    * [ER Diagrams](https://www.lucidchart.com/pages/er-diagrams) Model relational databases
+    * [Sequence Diagrams](https://developer.ibm.com/articles/the-sequence-diagram/) Show control movement between elements of the system
   * Patterns
     * [Backends for Front Ends](https://samnewman.io/patterns/architectural/bff/) Front ends still like talking to a monolith
     * [Enterprise Architecture Pattern Catalog](https://martinfowler.com/eaaCatalog/) Patterns from the GOAT Martin Fowler
