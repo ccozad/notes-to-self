@@ -17,7 +17,8 @@ This repo captures notes on various topics. It's on the public internet but it w
     * [Refactoring Techniques](https://refactoring.guru/refactoring/techniques) Change what you have in place
 * Business
     * Communication
-      * [How to Write an Executive Summary](https://www.inc.com/guides/2010/09/how-to-write-an-executive-summary.html) 
+      * [How to Write an Executive Summary](https://www.inc.com/guides/2010/09/how-to-write-an-executive-summary.html)
+      * [Presenting for Agreement](https://guykawasaki.com/the_102030_rule/) The 10/20/30 rule. 10 slides, 20 minutes, 30 point font 
     * Management
       * [Feedback Sandwich](https://www.betterup.com/blog/feedback-sandwich) Praise, correct, praise
       * [Leadership Styles](https://www.indeed.com/career-advice/career-development/leadership-styles-and-theories) Different styles for different situations
