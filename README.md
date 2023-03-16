@@ -32,7 +32,9 @@ This repo captures notes on various topics. It's on the public internet but it w
   * Lasers
     * [Laser Cutting Variables](laser-cutting-variables.md) Like flying a helicopter
 * Security
-*   * [OWASP Top 10](https://owasp.org/www-project-top-ten/) 
+  * [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+  * [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) 
+  * [OWASP Top 10](https://owasp.org/www-project-top-ten/) 
 * Technical Books
   * [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN/)
   * [Pragmatic Thinking and Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/)
@@ -46,7 +48,9 @@ This repo captures notes on various topics. It's on the public internet but it w
   * [Godot](https://godotengine.org/) All in one, cross platform game engine
   * [Lucid Chart](https://www.lucidchart.com/pages/)  Professional diagrams
   * [Node](https://nodejs.org/en/) Javascript runtime engine
+  * [Postman](https://www.postman.com/) Build and test APIs
   * [Python](https://www.python.org/) Dynamic programming language
+  * [Stoplight.io](https://stoplight.io/) Design, build and document APIs
   * [Visual Studio Code](https://code.visualstudio.com/) General purpose IDE
     * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) Spell checking for source code  
     * [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) Work with Docker containers
