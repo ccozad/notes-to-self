@@ -64,7 +64,7 @@ This repo captures notes on various topics. It's on the public internet but it w
   * [Docker](https://www.docker.com/) Container run time
   * [Figma](https://www.figma.com/) Wireframes and mockups
   * [Git](https://git-scm.com/) Source control
-  * GitHub
+  * [GitHub](https://github.com/) Collaborative source control
   * [Godot](https://godotengine.org/) All in one, cross platform game engine
   * [Lucid Chart](https://www.lucidchart.com/pages/)  Professional diagrams
   * [Miro](https://miro.com/) Digital whiteboard
