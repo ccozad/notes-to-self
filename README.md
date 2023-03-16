@@ -2,6 +2,8 @@
 This repo captures notes on various topics. It's on the public internet but it was not really meant to serve any audience other than myself. If you stumble on this and find anything useful or helpful, please drop me a line, I may be able to provide additional content.
 
 * Architecture
+  * Diagrams
+    * [ER Diagrams](https://www.lucidchart.com/pages/er-diagrams) 
   * Patterns
     * [Backends for Front Ends](https://samnewman.io/patterns/architectural/bff/) Front ends still like talking to a monolith
     * [Enterprise Architecture Pattern Catalog](https://martinfowler.com/eaaCatalog/) Patterns from the GOAT Martin Fowler
@@ -23,7 +25,9 @@ This repo captures notes on various topics. It's on the public internet but it w
   * Javascript
     * [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * Library References (Node)
-  * [bcrypt](https://github.com/kelektiv/node.bcrypt.js) Password hashing library `npm install bcrypt` 
+  * [bcrypt](https://github.com/kelektiv/node.bcrypt.js) Password hashing library `npm install bcrypt`
+  * [body-parser](https://github.com/expressjs/body-parser) Request body parsing middleware `npm install body-parser`
+  * [debug](https://github.com/debug-js/debug) Lightweight debug capture with color output `npm install debug` 
   * [express](https://expressjs.com/) Fast, unopinionated web framework for Node.js `npm install express`
   * [passport](https://www.passportjs.org/) Authentication middleware `npm install passport`
   * [passport-jwt](https://www.passportjs.org/packages/passport-jwt/) JSON Web Token authentication strategy `npm install passport-jwt`
@@ -43,10 +47,13 @@ This repo captures notes on various topics. It's on the public internet but it w
 * Tools
   * [Blender](https://www.blender.org/) 3D Modeling tool
   * [Docker](https://www.docker.com/) Container run time
+  * [Figma](https://www.figma.com/) Wireframes and mockups
   * [Git](https://git-scm.com/) Source control
   * GitHub
   * [Godot](https://godotengine.org/) All in one, cross platform game engine
   * [Lucid Chart](https://www.lucidchart.com/pages/)  Professional diagrams
+  * [Miro](https://miro.com/) Digital whiteboard
+  * [MongoDB](https://www.mongodb.com/) No-SQL Document Database
   * [Node](https://nodejs.org/en/) Javascript runtime engine
   * [Postman](https://www.postman.com/) Build and test APIs
   * [Python](https://www.python.org/) Dynamic programming language
