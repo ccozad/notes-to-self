@@ -11,6 +11,7 @@ This repo captures notes on various topics. It's on the public internet but it w
     * [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/) Relaiability, Security, Cost Optimization, Operational Excelence, Performance Efficiency
   * Refactoring
     * [Code Smells](https://refactoring.guru/refactoring/smells) You might need to refactor when these smells happen
+    * [Refactoring Techniques](https://refactoring.guru/refactoring/techniques) Change what you have in place
 * Cloud
   * Azure
     * [Azure Cheat Sheet](azure-cheat-sheet.md)
@@ -21,6 +22,9 @@ This repo captures notes on various topics. It's on the public internet but it w
     * [Markdown Code Blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
   * Javascript
     * [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* Library References
+    * [bcrypt](https://github.com/kelektiv/node.bcrypt.js) Password hashing library `npm install bcrypt` 
+    * [express](https://expressjs.com/) Fast, unopinionated web framework for Node.js `npm install express`
 * Machines
   * Lasers
     * [Laser Cutting Variables](laser-cutting-variables.md) Like flying a helicopter
