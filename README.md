@@ -3,8 +3,14 @@ This repo captures notes on various topics. It's on the public internet but it w
 
 * Architecture
   * Patterns
-    * [Backends for Front Ends](https://samnewman.io/patterns/architectural/bff/)
-    * [Enterprise Architecture Pattern Catalog](https://martinfowler.com/eaaCatalog/)
+    * [Backends for Front Ends](https://samnewman.io/patterns/architectural/bff/) Front ends still like talking to a monolith
+    * [Enterprise Architecture Pattern Catalog](https://martinfowler.com/eaaCatalog/) Patterns from the GOAT Martin Fowler
+    * [Azure Reference Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/) If you want to do a common workload on Azure there is probaly a well documented reference
+  * Principles
+    * [AWS Well-Architected](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) Operational excellence, security, reliability, performance efficiency, cost optimization, sustainability
+    * [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/) Relaiability, Security, Cost Optimization, Operational Excelence, Performance Efficiency
+  * Refactoring
+    * [Code Smells](https://refactoring.guru/refactoring/smells) You might need to refactor when these smells happen
 * Cloud
   * Azure
     * [Azure Cheat Sheet](azure-cheat-sheet.md)
@@ -17,7 +23,7 @@ This repo captures notes on various topics. It's on the public internet but it w
     * [Mozilla Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * Machines
   * Lasers
-    * [Laser Cutting Variables](laser-cutting-variables.md)
+    * [Laser Cutting Variables](laser-cutting-variables.md) Like flying a helicopter
 * Technical Books
   * [Monolith to Microservices](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook/dp/B081TKSSNN/)
   * [Pragmatic Thinking and Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/)
