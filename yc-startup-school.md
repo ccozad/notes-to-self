@@ -14,6 +14,7 @@ Notes from the Y Combinator (YC) "Startup School" series on Youtube.
     - Eventually you need enduring motives
         - Have a problem you are genuinely interested in solving
         - Love the people you're working with
+        - Additional info on resiliancy: https://www.verywellmind.com/what-is-resilience-2795059
 - To evaluate resiliancy, ask your self, what do I have to lose?
     - Decide what the worst case scenario is if you started a startup
     - It is going to take at least a year to get your company started
