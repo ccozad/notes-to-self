@@ -23,7 +23,9 @@ This repo captures notes on various topics. It's on the public internet but it w
       * [Feedback Sandwich](https://www.betterup.com/blog/feedback-sandwich) Praise, correct, praise
       * [Leadership Styles](https://www.indeed.com/career-advice/career-development/leadership-styles-and-theories) Different styles for different situations
       * [Smart Goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) Specific, Measurable, Relevant, Attainable, Time bound 
-      * [Stop, Start Continue](https://www.scienceofpeople.com/start-stop-continue/) Quickly and simply gather feedback from a group  
+      * [Stop, Start Continue](https://www.scienceofpeople.com/start-stop-continue/) Quickly and simply gather feedback from a group
+    * Startups
+      * [Y Combinator Startup School Notes](yc-startup-school.md)
 * Cloud
   * Azure
     * [Azure Cheat Sheet](azure-cheat-sheet.md)
