@@ -24,6 +24,7 @@ This repo captures notes on various topics. It's on the public internet but it w
       * [Leadership Styles](https://www.indeed.com/career-advice/career-development/leadership-styles-and-theories) Different styles for different situations
       * [Smart Goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) Specific, Measurable, Relevant, Attainable, Time bound 
       * [Stop, Start Continue](https://www.scienceofpeople.com/start-stop-continue/) Quickly and simply gather feedback from a group
+      * [The Leaderhip Challenge](the-leadership-challenge.md)
     * Startups
       * [Y Combinator Startup School Notes](yc-startup-school.md)
 * Cloud
