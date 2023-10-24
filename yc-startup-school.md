@@ -44,3 +44,24 @@ Notes from the Y Combinator (YC) "Startup School" series on Youtube.
     - Find smart people to talk ideas with
     - Turn ideas into side projects and launch them
     - If you enjoy the process, make the jump!
+
+# How to Get and Evaluate Startup ideas
+
+- https://www.youtube.com/watch?v=Th8JoIan4dg
+- No one knows which ideas will succeed
+- Success has much to do with how well you execute
+- How to Get Startup Ideas by Paul Graham http://paulgraham.com/startupideas.html
+- Four most common mistakes founders make with startup ideas
+    - Not solving a real problem
+        - Solution in search of a problem
+        - Users don't really care about the problem
+        - Start with a high value problem
+    - Getting stuck on a "tar pit" idea
+        - Widespread problem that lots of potential founders encounter
+        - Seems like it could be easily solvable with a startup
+        - there's actually a structural reason why it's difficult to solve
+    - Not evaluating an idea
+    - Waiting for the perfect idea
+        - "You should think of your initial startup idea as a good starting point. Startup ideas will morph over time." Paul Graham
+- How to know if your idea is good?
+- How to come up with new startup ideas?
