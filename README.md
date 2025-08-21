@@ -81,6 +81,21 @@ This repo captures notes on various topics. It's on the public internet but it w
     * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) Spell checking for source code  
     * [Docker Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) Work with Docker containers
     * [ES Lint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) Find and fix javascript problems
+ * Philosophy
+    * Soccer Game Success
+      * Heart, Teamwork, Character
+         * Heart
+            * Think and adapt
+            * Try your best
+            * Follow through
+         * Teamwork
+            * Do your part
+            * Pass the ball
+            * Help your team
+         * Character
+           * Be humble
+           * Growth mindset
+           * Have courage
 
 
 
